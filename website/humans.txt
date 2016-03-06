@@ -1,0 +1,11 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Brian Maher -- Developer -- @bmaher_qa
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Docker, nginx, Normalize.css
