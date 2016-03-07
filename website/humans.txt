@@ -4,8 +4,14 @@
 # TEAM
 
     Brian Maher -- Developer -- @bmaher_qa
+    
+# THANKS
+
+    HTML5Boilerpate -- Providing their boilerplate -- html5boilerplate.com
+    James Turnbull -- Teaching me Docker -- dockerbook.com
+    Henrik Nyh -- Inspiring the design -- henrik.nyh.se
 
 # TECHNOLOGY COLOPHON
 
-    CSS3, HTML5
-    Docker, nginx, Normalize.css
+    HTML5, CSS3, Normalize.css
+    Docker, nginx
