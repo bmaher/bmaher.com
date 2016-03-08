@@ -96,6 +96,14 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+a {
+    color: #222;
+}
+
+a:hover {
+    color: #cc0000;
+}
+
 body {
     text-align: center;
 }
@@ -122,10 +130,6 @@ body {
     margin-top: 0px;
     margin-right: 10px;
 }
-
-
-
-
 
 /* ==========================================================================
    Helper classes
