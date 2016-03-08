@@ -1,8 +1,7 @@
-site:
+nginx:
  image: brianmaher/nginx
  command: nginx
  ports:
   - "80:80"
  volumes:
   - ../website:/var/www/html/website
-
