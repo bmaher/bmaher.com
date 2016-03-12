@@ -1,4 +1,4 @@
-nginx:
+bmaher:
  image: brianmaher/nginx
  command: nginx
  ports:
