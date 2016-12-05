@@ -1,5 +1,5 @@
 FROM ubuntu:trusty
-MAINTAINER Brian Maher "briancmaher@gmail.com"
+MAINTAINER Brian Maher "dev@bmaher.com"
 
 RUN apt-get -qq update
 RUN apt-get -qq install nginx
