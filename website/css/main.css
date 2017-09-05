@@ -124,6 +124,7 @@ body {
 
 .link-bar {
     margin-top: 40px;
+    margin-left: -3%;
     font-size: 13px;
     list-style-type: none;
 }
