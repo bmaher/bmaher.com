@@ -1,4 +1,4 @@
-FROM ubuntu:trusty
+FROM ubuntu
 MAINTAINER Brian Maher "dev@bmaher.com"
 
 RUN apt-get -qq update
