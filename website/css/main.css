@@ -108,6 +108,11 @@ a:visited {
     color: #cc0000;
 }
 
+a.no-style {
+    text-decoration: none;
+    color: #000;
+}
+
 body {
     text-align: center;
 }
