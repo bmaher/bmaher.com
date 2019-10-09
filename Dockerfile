@@ -1,4 +1,4 @@
-FROM nginx:alpine
+FROM nginx:stable-alpine
 MAINTAINER Brian Maher "dev@bmaher.com"
 
 COPY site /var/www/html/site/
