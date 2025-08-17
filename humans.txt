@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Brian Maher -- Technologist -- bmaher
+
+# THANKS
+
+    Henrik Nyh -- Inspiring the design -- henrik.nyh.se
+
+# TECHNOLOGY COLOPHON
+
+    - HTML5
+    - CSS3
